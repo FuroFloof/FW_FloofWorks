@@ -1,0 +1,22 @@
+{
+    "buttons": [
+        { "name": "Home", "url":        "http://floof.localhost:44800" },
+        { "name": "~News~", "url":        "http://news.localhost:44800" },
+        { "name": "Profile", "url":     "http://profile.localhost:44800" },
+        { "name": "Account", "url":     "http://account.localhost:44800" },
+        { "name": "~Settings~", "url":    "http://settings.localhost:44800" },
+        { "name": "~Social~", "url":      "http://social.localhost:44800" },
+        { "name": "~Forum~", "url":       "http://forum.localhost:44800" },
+        { "name": "~FloofTube~", "url":    "http://flooftube.localhost:44800" },
+        { "name": "~Publishing~", "url":  "http://publish.localhost:44800" },
+        { "name": "~Events~", "url":      "http://events.localhost:44800" },
+        { "name": "~Developer~", "url":   "http://developer.localhost:44800" },
+        { "name": "9Slice", "url":      "http://9slice.localhost:44800" },
+        { "name": "~API~", "url":         "http://api.localhost:44800" },
+        { "name": "~About~", "url":       "http://about.localhost:44800" },
+        { "name": "~Donate~", "url":      "http://donate.localhost:44800" },
+        { "name": "~Pay~", "url":         "http://pay.localhost:44800" },
+        { "name": "Template", "url":    "http://template.localhost:44800" },
+        { "name": "~Hello~", "url":       "http://hello.localhost:44800" }
+    ]
+}

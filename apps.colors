@@ -1,0 +1,37 @@
+Standard Foreground Colors
+
+    black
+
+    red
+
+    green
+
+    yellow
+
+    blue
+
+    magenta
+
+    cyan
+
+    white
+
+    gray (alias grey)
+
+Bright Foreground Colors
+
+    blackBright
+
+    redBright
+
+    greenBright
+
+    yellowBright
+
+    blueBright
+
+    magentaBright
+
+    cyanBright
+
+    whiteBright

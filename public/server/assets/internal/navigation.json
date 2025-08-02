@@ -1,0 +1,22 @@
+{
+    "buttons": [
+        { "name": "Home", "url":        "http://floof.works" },
+        { "name": "~News~", "url":        "http://news.floof.works" },
+        { "name": "Profile", "url":     "http://profile.floof.works" },
+        { "name": "Account", "url":     "http://account.floof.works" },
+        { "name": "~Settings~", "url":    "http://settings.floof.works" },
+        { "name": "~Social~", "url":      "http://social.floof.works" },
+        { "name": "~Forum~", "url":       "http://forum.floof.works" },
+        { "name": "~FloofTube~", "url":    "http://flooftube.floof.works" },
+        { "name": "~Publishing~", "url":  "http://publish.floof.works" },
+        { "name": "~Events~", "url":      "http://events.floof.works" },
+        { "name": "~Develope~r", "url":   "http://developer.floof.works" },
+        { "name": "9Slice", "url":      "http://9slice.floof.works" },
+        { "name": "~API~", "url":         "http://api.floof.works" },
+        { "name": "~About~", "url":       "http://about.floof.works" },
+        { "name": "~Donate~", "url":      "http://donate.floof.works" },
+        { "name": "~Pay~", "url":         "http://pay.floof.works" },
+        { "name": "Template", "url":    "http://template.floof.works" },
+        { "name": "~Hello~", "url":       "http://hello.floof.works" }
+    ]
+}

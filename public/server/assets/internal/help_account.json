@@ -1,0 +1,29 @@
+{
+  "invite_codes": {
+    "header": "Invite Codes",
+    "questions": [
+      {
+        "question": "What are invite codes?",
+        "answer": "Invite codes are required from guests to confirm they are affiliated with at least one already present user of the platform. Each code may only be used once, then it is void."
+      },
+      {
+        "question": "How do I acquire Invite Codes?",
+        "answer": "If you have a friend who is already a verified user on FloofWorks, you may ask them if they have any un-used Invite Codes in their <a href='/invite/my-codes'>Invite Code Inventory</a>. <br><br> If you do not have a friend, you may request an invite code via <i>invite-me@floof.works</i>!"
+      },
+      {
+        "question": "How can I get more Invite Codes?",
+        "answer": "By default you are provided 2 Invite Codes, for 2 of your friends! The more you interact with FloofWorks, the higher the chance you'll recieve additional Invite Codes!"
+      }
+    ]
+  },
+
+  "another_topic_key": {
+    "header": "Another Topic",
+    "questions": [
+      { 
+        "question": "Question 1", 
+        "answer": "Answer 1" 
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+    "dropdown1": 
+    {
+        "Software": 
+        {
+            "Games": 
+            {   
+                "Combat:Redux": "/?p=combat_redux",
+                "PMD:U": "/?p=pmd_u",
+                "To Be Announced...": "/?p=tba"
+            },
+            "Applications": 
+            {
+                "Mono Text Editor": "/?p=mono_text_editor",
+                "Mocap Lite": "/?p=mocap_lite",
+                "SPFS": "/?p=spfs",
+                "Server Bans Classes": "/?p=server_bans_classes"
+            },
+            "For Self Hosting": 
+            {
+                "Bluesky Handle Registrar": "/?p=bsky_handle_registrar"
+            }
+        },
+        "Experiences": 
+        {
+            "VRChat": 
+            {
+                "Ho'alo Guild": "/?p=hoalo_guild"
+            }
+        },
+        "Products": 
+        {
+            "Bots": 
+            {
+                "Discord": 
+                {
+                    "Dungeon Ambience": "/?p=dungeon_ambience",
+                    "Floof": "/?p=floof_bot"
+                },
+                "Revolt": 
+                {
+                    "Poké-Bot": "/?p=poke_bot"
+                }
+            },
+            "Services":
+            {
+                "PMD.social Handle Registrar": "/?p=pmd_social_handle_registrar"
+            }
+        }
+    },
+    "dropdown2": 
+    {
+        "Test": 
+        {
+            "A Button": "/"
+        }
+    },
+    "dropdown_account_help": 
+    {
+        "Help": 
+        {
+            "Account": 
+            {   
+                "Invite Codes": "/help/?q=invite_codes"
+            }
+        }
+    }
+}
+  
